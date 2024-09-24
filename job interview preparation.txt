@@ -1,0 +1,80 @@
+Prompt 1:
+User: How should I introduce myself in an interview?
+Response: Start with your name, briefly mention your background (education or work experience), and state your current goal or what brings you to the interview. For example: "Hi, my name is Sarah. I have a degree in marketing, and I’ve worked as a digital marketing specialist for the last 3 years. I’m excited about this opportunity because I’m passionate about using data-driven strategies to help businesses grow."
+
+Prompt 2:
+User: How do I answer "What are your strengths?"
+Response: Choose strengths that are relevant to the job. Be specific and give examples of how you’ve used these strengths in the past. For example: "One of my strengths is communication. In my last job, I led cross-departmental meetings, ensuring that everyone was on the same page and that project timelines were met."
+
+Prompt 3:
+User: What is a good way to answer "What are your weaknesses?"
+Response: Choose a real weakness, but focus on how you're working to improve it. Avoid weaknesses that directly affect the job you're applying for. For example: "I sometimes struggle with delegation, but I’ve been working on improving this by learning to trust my team and assign tasks based on their strengths."
+
+Prompt 4:
+User: How should I prepare for a behavioral interview?
+Response: Use the STAR method (Situation, Task, Action, Result) to structure your responses. Prepare examples from past experiences that demonstrate key competencies such as teamwork, leadership, or problem-solving. Practice explaining these situations clearly and concisely.
+
+Prompt 5:
+User: How do I answer "Why do you want to work here?"
+Response: Research the company’s values, mission, and recent projects. Tie these to your own goals and interests. For example: "I admire your company’s focus on sustainability and innovation. As someone who’s passionate about green technology, I’m excited about the opportunity to contribute to your environmental initiatives."
+
+Prompt 6:
+User: How do I handle a question about a gap in my resume?
+Response: Be honest about the gap, but focus on how you used the time productively, whether by learning new skills, volunteering, or focusing on personal development. For example: "During that time, I took a break to care for a family member, but I also took online courses in project management to enhance my skills."
+
+Prompt 7:
+User: How should I answer "Tell me about a time you faced a challenge at work"?
+Response: Use the STAR method to describe a challenging situation, the tasks involved, the actions you took, and the positive result or lesson learned. For example: "In my previous job, we had a last-minute change in project requirements. I worked closely with the team, reorganized tasks, and ensured we met the deadline. It taught me how to stay adaptable under pressure."
+
+Prompt 8:
+User: How do I answer "Where do you see yourself in five years?"
+Response: Focus on career growth and align it with the company’s goals. For example: "In five years, I see myself taking on more leadership responsibilities within the marketing team, helping to shape strategy and drive growth for the company."
+
+Prompt 9:
+User: What should I ask at the end of an interview?
+Response: Ask insightful questions that show your interest in the role and the company. For example: "Can you tell me more about the team I’d be working with?" or "What does success look like in this role in the first six months?"
+
+Prompt 10:
+User: How do I answer "What is your greatest accomplishment?"
+Response: Choose an accomplishment that is relevant to the job. Describe the challenge, your approach, and the positive outcome. For example: "In my last role, I successfully led a team to launch a product that exceeded sales expectations by 30%. It was a great learning experience in leadership and project management."
+
+Prompt 11:
+User: How do I explain why I left my last job?
+Response: Be honest but keep it positive. Focus on the future and what you’re looking for in your next role. For example: "I enjoyed my time at my last company, but I’m looking for new challenges and opportunities to grow in my career, which I believe your company can provide."
+
+Prompt 12:
+User: How should I answer "Why should we hire you?"
+Response: Highlight your key skills and experience that match the job description. For example: "With my background in data analysis and my passion for improving processes, I believe I can bring a lot of value to this role. I have a proven track record of identifying efficiencies that have saved my previous company time and money."
+
+Prompt 13:
+User: How do I handle a question I don’t know the answer to?
+Response: Stay calm and honest. You can say, "That’s a great question. I don’t have an immediate answer, but I’d love to explore that further and get back to you." You can also try to explain how you would approach finding the answer.
+
+Prompt 14:
+User: How do I talk about my salary expectations?
+Response: Do your research on salary ranges for the role and location. You can say, "Based on my research and experience, I’m looking for a salary in the range of $X to $Y. However, I’m open to discussing this further."
+
+Prompt 15:
+User: What is a good way to answer "What motivates you?"
+Response: Tie your answer to what drives you in your work and how that aligns with the job. For example: "I’m motivated by opportunities to solve complex problems and see the direct impact of my work. I love working in environments where innovation and creativity are encouraged."
+
+Prompt 16:
+User: How do I answer "How do you handle stress?"
+Response: Give an example of how you stay organized and manage stress in the workplace. For example: "I handle stress by staying organized and prioritizing tasks. I also make sure to take breaks and check in with my team to stay on track."
+
+Prompt 17:
+User: What should I wear to a job interview?
+Response: Dress appropriately based on the company’s culture. For most corporate settings, business attire is best. In more casual environments, business casual is acceptable. When in doubt, it’s better to be slightly overdressed.
+
+Prompt 18:
+User: How do I handle a question about my lack of experience?
+Response: Highlight transferable skills from other experiences and emphasize your willingness to learn. For example: "While I may not have direct experience in this role, I’ve developed strong communication and organizational skills in my previous jobs that I believe will translate well here. I’m eager to learn and grow in this position."
+
+Prompt 19:
+User: How should I answer "What do you know about our company?"
+Response: Research the company’s history, mission, products, or recent news. You can say something like, "I know your company is a leader in the tech industry, especially with your innovative products. I admire your focus on sustainability and your recent expansion into new markets."
+
+Prompt 20:
+User: How do I explain why I was laid off?
+Response: Be honest but keep it professional. For example: "I was part of a company-wide layoff due to restructuring. It was a great experience working there, and I’m looking forward to using the skills I gained in my next role."
+
