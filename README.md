@@ -1,4 +1,4 @@
-# jobprepbot
+# Job Interview Prepbot
 **Job PrepBot**
 Job PrepBot is a chatbot designed to assist users in preparing for job interviews and career advancement. By integrating common interview questions, resume tips, and company insights into a large language model (LLM), this bot provides personalized guidance to help users succeed in job applications and interviews.
 
